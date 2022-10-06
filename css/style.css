@@ -11,3 +11,6 @@
 
 /* utilidades */
 @import url(./utilidades/componentes.css);
+
+/* bicicletas */
+@import url(./bicicletas/bicicletas-lista.css);
