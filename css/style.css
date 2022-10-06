@@ -8,6 +8,7 @@
 
 /* home */
 @import url(./home/introducao.css);
+@import url(./home/tecnologia.css);
 
 /* utilidades */
 @import url(./utilidades/componentes.css);
