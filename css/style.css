@@ -5,6 +5,7 @@
 @import url(./utilidades/cores.css);
 
 @import url(./global/header.css);
+@import url(./global/footer.css);
 
 /* home */
 @import url(./home/introducao.css);
@@ -21,3 +22,6 @@
 
 /* depoimento */
 @import url(./home/depoimento.css);
+
+/* seguros */
+@import url(./seguros/seguros.css);
