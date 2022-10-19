@@ -16,6 +16,7 @@
 
 /* bicicletas */
 @import url(./bicicletas/bicicletas-lista.css);
+@import url(./bicicletas/bicicletas.css);
 
 /* parceiros */
 @import url(./home/parceiros.css);
@@ -25,3 +26,7 @@
 
 /* seguros */
 @import url(./seguros/seguros.css);
+
+/* termos */
+
+@import url(./termos/termos.css);
