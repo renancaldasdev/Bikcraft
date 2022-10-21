@@ -13,6 +13,7 @@
 
 /* utilidades */
 @import url(./utilidades/componentes.css);
+@import url(./utilidades/formularios.css);
 
 /* bicicletas */
 @import url(./bicicletas/bicicletas-lista.css);
@@ -32,6 +33,11 @@
 @import url(./seguros/seguros.css);
 @import url(./seguros/vantagens.css);
 @import url(./seguros/perguntas.css);
+
+/* contato */
+
+@import url(./contato/contato.css);
+@import url(./contato/lojas.css);
 
 /* termos */
 
