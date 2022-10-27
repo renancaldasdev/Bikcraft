@@ -22,5 +22,14 @@ Design elaborado no curso de UX/UI da [Origamid](https://www.origamid.com/), lin
 
 ### Demonstração
 
-[Desktop](.github/bikcraft-desktop.jpg) <br>
-[Mobile](.github/bikcraft-mobile.jpg)
+<br>
+
+Desktop
+<br>
+<img src=".github/bikcraft-desktop.jpg" style="width:400px"> <br><br>
+
+Mobile
+<br>
+<img src=".github/bikcraft-mobile.jpg" style="width:400px"> <br>
+
+<hr>
