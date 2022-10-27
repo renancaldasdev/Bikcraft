@@ -33,3 +33,5 @@ Mobile
 <img src=".github/bikcraft-mobile.jpg" style="width:400px"> <br>
 
 <hr>
+
+Feito com dedicação por Renan Caldas 👨‍💻
